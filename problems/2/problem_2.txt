@@ -1,0 +1,16 @@
+Problem 2
+-------------------------------------------------------------------------------
+
+TASK
+    Print each element of the linked list provided in reverse.
+
+CONSTRAINTS
+    - Implementation must take *at most* five minutes
+
+MATERIALS
+    The following files are provided for reference:
+        - list.h
+        - list.c
+    
+    The following files are provided for modification:
+        - main.c

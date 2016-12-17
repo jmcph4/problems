@@ -1,0 +1,16 @@
+Problem 1
+-------------------------------------------------------------------------------
+
+TASK
+    Implement a singly-linked list supporting *at least* the operations:
+        - Insertion
+        - Removal
+    
+    Furthermore, insert *at least* three elements into a list and print them in
+    order.
+
+CONSTRAINTS
+    - Implementation must take *at most* five minutes
+
+MATERIAL
+    None.
