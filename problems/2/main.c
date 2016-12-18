@@ -10,9 +10,9 @@ int main(void)
     init(0, &h); /* initialise list */
     
     /* seed list */
-    list_append(1, &list);
-    list_append(2, &list);
-    list_append(3, &list);
+    list_append(1, &h);
+    list_append(2, &h);
+    list_append(3, &h);
     
     /* your code here */
     

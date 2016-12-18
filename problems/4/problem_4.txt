@@ -1,0 +1,13 @@
+Problem 4
+-------------------------------------------------------------------------------
+
+TASK
+    Implement quicksort and use it to sort the provided array in ascending
+    order. Print the sorted array.
+
+CONSTRAINTS
+    - Implementation must take *at most* 10 minutes
+    
+MATERIAL
+    The following files are provided for modification:
+        - main.c

@@ -1,0 +1,17 @@
+Problem 3
+-------------------------------------------------------------------------------
+
+TASK
+    Print the list resulting from interleaving the two lists provided (with the
+    head of the interleaved list being the head of the first list provided).
+    
+CONSTRAINTS
+    - Implementation must take *at most* five minutes
+    
+MATERIAL
+    The following files are provided for reference:
+        - list.h
+        - list.c
+    
+    The follow files are provided for modification:
+        - main.c
